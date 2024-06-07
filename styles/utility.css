@@ -11,7 +11,7 @@
 }
 
 .px-lg {
-    padding-inline: var(--px-lg) ;
+    padding-inline: var(--px-lg);
 }
 
 .container {
@@ -30,12 +30,24 @@
     gap: 1rem;
 }
 
+.flex {
+    display: flex;
+}
+
+.gap-1 {
+    gap: 1rem;
+}
+
+.grid {
+    display: grid;
+}
+
 @media (width >=80em) {
     .container {
         --max-width: 80rem;
     }
 
-    .desktop-only{
+    .desktop-only {
         display: initial;
     }
 

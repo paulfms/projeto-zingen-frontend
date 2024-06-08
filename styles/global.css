@@ -80,6 +80,10 @@ a {
     color: inherit;
 }
 
+ul[role="list"] {
+    list-style: none;
+}
+
 a:hover {
     background: linear-gradient(
         90deg,
@@ -92,9 +96,6 @@ a:hover {
     color: transparent;
 }
 
-ul [role="list"] {
-    list-style: none;
-}
 
 img {
     max-width: 100%;

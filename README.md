@@ -1,4 +1,5 @@
-![image](https://github.com/paulfms/projeto-zingen-frontend/assets/15272145/33e4c98f-5cd2-429b-9dd7-14c5ff63c587)
+![image](https://github.com/paulfms/projeto-zingen-frontend/assets/15272145/52abe9b2-69d4-4d89-8be0-dff0f4618617)
+
 
 
 <h1 align="center"> Zingen | Karaokê 🎙 </h1>
